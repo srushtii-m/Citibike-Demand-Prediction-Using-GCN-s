@@ -10,7 +10,7 @@ This repository contains the implementation of my independent study on advanced 
 
 ## Report
 
-For a detailed exploration of the methodologies and results, you can refer to the full report [here]([link-to-report.pdf](https://github.com/srushtii-m/Citibike-Demand-Prediction-Using-GCN-s/blob/main/Report.pdf)).
+For a detailed exploration of the methodologies and results, you can refer to the full report [here](https://github.com/srushtii-m/Citibike-Demand-Prediction-Using-GCN-s/blob/main/Report.pdf).
 
 ## Ongoing Research
 
