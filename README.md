@@ -4,13 +4,13 @@ This repository contains the implementation of my independent study on advanced 
 
 ## Project Overview
 
-- **Spatio-Temporal Graph Convolutional Networks (STGCN):** Captures spatial and temporal dependencies through graph convolutions and gated temporal convolutions.
-- **Attention Based Spatial-Temporal Graph Convolutional Networks (ASTGCN):** Incorporates attention mechanisms to dynamically focus on important spatial and temporal features.
-- **Spatio-Temporal Neural Structural Causal Models (STNSCM):** Integrates causal reasoning and counterfactual analysis to improve the robustness and adaptability of predictions.
+- [**Spatio-Temporal Graph Convolutional Networks (STGCN):**](https://github.com/srushtii-m/Citibike-Demand-Prediction-Using-GCN-s/tree/main/STGCN) Captures spatial and temporal dependencies through graph convolutions and gated temporal convolutions.
+- [**Attention Based Spatial-Temporal Graph Convolutional Networks (ASTGCN):**](https://github.com/srushtii-m/Citibike-Demand-Prediction-Using-GCN-s/tree/main/ASTGCN) Incorporates attention mechanisms to dynamically focus on important spatial and temporal features.
+- [**Spatio-Temporal Neural Structural Causal Models (STNSCM):**](https://github.com/srushtii-m/Citibike-Demand-Prediction-Using-GCN-s/tree/main/STNSCM) Integrates causal reasoning and counterfactual analysis to improve the robustness and adaptability of predictions.
 
 ## Report
 
-For a detailed exploration of the methodologies and results, you can refer to the full report [here](link-to-report.pdf).
+For a detailed exploration of the methodologies and results, you can refer to the full report [here]([link-to-report.pdf](https://github.com/srushtii-m/Citibike-Demand-Prediction-Using-GCN-s/blob/main/Report.pdf)).
 
 ## Ongoing Research
 
